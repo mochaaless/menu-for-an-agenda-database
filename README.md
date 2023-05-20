@@ -1,5 +1,5 @@
 # menu-for-an-agenda-database
-menu for an agenda database, wich allows:
+Menu for an agenda database, wich allows:
   Insert person
   Delete person
   Update person
